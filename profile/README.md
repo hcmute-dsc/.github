@@ -1,10 +1,6 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://github.com/GDSC-HCMUTE.png" />
-<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
-
-<h2 align="center">Google Developer Student Clubs - HCMUTE</h2>
+<h2 align="center">HCMUTE Developer Student Club</h2>
 <p align="center">
-  <h6 align="center">A member of global GDSC, supported by Google Developers.</h6>
+  <h6>HCMUTE Developer Student Club (formerly known as Gooogle Developer Student Clubs - HCMUTE) is a community for IT students studying at HCMUTE (HCMC University of Technology and Education) to connect, grow, and build software solutions for the community.</h6>
 </p>
 
 <br />
@@ -16,14 +12,8 @@
 <p align="center">
   <a href="https://www.facebook.com/gdsc.hcmute/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/GDSC-HCMUTE" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
+  </a>
   <a href="mailto:dsc.hcmute@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-  <a href="https://gdsc.community.dev/ho-chi-minh-city-university-of-technology-and-education-ho-chi-minh-city-vietnam/" alt="Email">
-    <img src="https://img.icons8.com/color/48/domain--v1.png"/>
   </a>
 </p>
