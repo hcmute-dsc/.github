@@ -2,13 +2,13 @@
   <a href="https://hcmute-dsc.io.vn">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://hcmute-dsc.io.vn/img/logo/hcmute-dsc-logo-dark.png">
-      <img alt="HCMUTE Developer Student Club" src="https://hcmute-dsc.io.vn/img/logo/hcmute-dsc-logo.png" height="96">
+      <img alt="HCM-UTE Developer Student Club" src="https://hcmute-dsc.io.vn/img/logo/hcmute-dsc-logo.png" height="96">
     </picture>
   </a>
 </p>
 
-<h2 align="center">HCMUTE Developer Student Club</h2>
-<p align="center"><b>Câu lạc bộ Sinh viên Lập trình HCMUTE</b> · Học đi đôi với hành</p>
+<h2 align="center">HCM-UTE Developer Student Club</h2>
+<p align="center"><b>Câu lạc bộ Sinh viên Lập trình HCM-UTE</b> · Học đi đôi với hành</p>
 
 <p align="center">
   <a href="https://hcmute-dsc.io.vn">Website</a> ·
@@ -18,9 +18,9 @@
   <a href="mailto:clb.dsc@student.hcmute.edu.vn">Email</a>
 </p>
 
-**HCMUTE DSC** là câu lạc bộ học thuật mở và năng động dành cho tất cả sinh viên đam mê công nghệ và lập trình, trực thuộc Khoa Công nghệ Thông tin, Trường Đại học Công nghệ Kỹ thuật TP.HCM. CLB thành lập ngày 20/07/2021 với tên GDSC HCMUTE, và từ 10/2024 trở thành HCMUTE Developer Student Club.
+**HCM-UTE Developer Student Club** là câu lạc bộ học thuật mở và năng động dành cho tất cả sinh viên đam mê công nghệ và lập trình, trực thuộc Khoa Công nghệ Thông tin, Trường Đại học Công nghệ Kỹ thuật TP.HCM. Câu lạc bộ thành lập ngày 20/07/2021, là một thành viên thuộc chương trình Google Developer Student Clubs (GDSC). Từ 10/2024, câu lạc bộ rút khỏi chương trình GDSC để hoạt động độc lập, lấy tên HCM-UTE Developer Student Club.
 
-> *HCMUTE Developer Student Club (HCMUTE DSC) is an open, active academic club for every student passionate about technology and programming, under the Faculty of Information Technology, Ho Chi Minh City University of Technology and Engineering.*
+> *HCM-UTE Developer Student Club (HCM-UTE DSC) is an open, active academic club for every student passionate about technology and programming, under the Faculty of Information Technology, Ho Chi Minh City University of Technology and Engineering.*
 
 ## Dự án
 
